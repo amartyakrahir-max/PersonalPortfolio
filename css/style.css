@@ -83,14 +83,14 @@ color:#38BDF8;
 ========================== */
 
 .hero{
-min-height:90vh;
+min-height:75vh;
 
 display:flex;
 justify-content:center;
 align-items:center;
 
 gap:60px;
-padding:60px 8%;
+padding:20px 8%;
 flex-wrap:wrap;
 }
 
@@ -99,6 +99,7 @@ width:280px;
 height:280px;
 
 object-fit:cover;
+object-position:center top;
 
 border-radius:50%;
 
