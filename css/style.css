@@ -14,7 +14,12 @@ scroll-behavior:smooth;
 }
 
 body{
-background:#F8FAFC;
+background:linear-gradient(
+135deg,
+#ffffff 0%,
+#f0f7ff 50%,
+#dbeafe 100%
+);
 color:#0F172A;
 line-height:1.6;
 animation:fadeIn 1s ease;
